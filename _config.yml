@@ -13,13 +13,5 @@ header:
  subtitle: "na Vila Carlota"
 footer:
  name: "Seu novo lar te espera..."
- bio: "Com 200m² de terreno e 140m² de área construída, esta residência em um condomínio fechado na Vila Carlota exala aconchego e elegância. Com cômodos espaçosos e localizada em um seguro condomínio de 37 casas próximo à UFMS e ao Comper da Spipe Calarge, é ideal para casais com filhos pequenos e pets."
- github: "Quer saber mais? Contacte-me pelo <a href=\"https://api.whatsapp.com/send?phone=5567981118060\" target=\"_blank\">WhatsApp</a> ou pelo formulário ao lado."
-web_design: "Camilo Carromeu"
-social_urls:
-  facebook: "https://www.facebook.com/ramswaroop"
-  twitter: "https://www.twitter.com/ram__patra"
-  instagram: "https://www.instagram.com/ram_patra"
-  dribbble: "https://dribbble.com/rampatra"
-  linkedin: "https://in.linkedin.com/in/ram-patra"
-  github: "https://www.github.com/rampatra"
+ about: "Com 200m² de terreno e 140m² de área construída, esta residência na Vila Carlota exala aconchego e elegância. Com cômodos espaçosos e localizada em um seguro condomínio fechado de 37 casas próximo à UFMS e ao Comper da Spipe Calarge, é ideal para casais com filhos pequenos e pets."
+ contact: "Quer saber mais? Contacte-nos pelo <a href=\"https://api.whatsapp.com/send?phone=5567981118060\" target=\"_blank\">WhatsApp</a> ou pelo <a href=\"https://olx.com.br/\" target=\"_blank\">anúncio na OLX</a>."
